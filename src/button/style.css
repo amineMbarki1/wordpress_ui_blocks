@@ -1,0 +1,20 @@
+@import "tailwindcss" source(none);
+@source "/edit.js";
+@source "./save.js";
+
+.wp-block-create-block-button {
+}
+
+:root {
+	--primary: oklch(20.5% 0 0);
+	--primary-foreground: oklch(98.5% 0 0);
+	--secondary-foreground: oklch(20.5% 0 0);
+	--secondary: oklch(97% 0 0);
+	--muted: oklch(97% 0 0);
+	--muted-foreground: oklch(55.6% 0 0);
+	--accent: oklch(97% 0 0);
+	--accent-foreground: oklch(20.5% 0 0);
+	--destructive: oklch(57.7% 0.245 27.325);
+	--card: oklch(100% 0 0);
+	--card-foreground: oklch(14.5% 0 0);
+}

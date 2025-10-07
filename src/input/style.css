@@ -1,0 +1,8 @@
+@import "tailwindcss" source(none);
+@source "/edit.js";
+@source "./save.js";
+
+:root {
+	--input-border: oklch(87.1% 0.006 286.286);
+	--ring: oklch(87.1% 0.006 286.286);
+}

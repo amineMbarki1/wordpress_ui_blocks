@@ -1,0 +1,7 @@
+@import "tailwindcss" source(none);
+@source "/edit.js";
+@source "./save.js";
+
+.wp-block-create-block-card-description {
+	border: 1px dotted #f00;
+}
